@@ -1,0 +1,26 @@
+site_name: VB#2030
+extra_css:
+  - extra.css
+pages:
+- README: readme.html
+- Introduction:
+    - 'Summary': 'summary.html'
+- Implementation:
+    - How did we go about it: 'how.html'
+- API Documentation:
+    - ROS Nodes: 
+       - first_arm documentation: 'first_arm.md'
+       - second_arm documentation: 'second_arm.md'
+       - node_action_server_ros_iot_bridge: 'node_action_server_ros_iot_bridge.md'
+       - node_iot_ros_bridge_action_client: 'node_iot_ros_bridge_action_client.md'
+       
+    - Other Files: 
+       - File1: 'config_pyiot.yaml'
+       - iot documentation: 'iot.md'
+
+
+   
+
+
+
+
